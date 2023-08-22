@@ -20,7 +20,7 @@ NodeJs Android Debug Bridge / ADB
 
 ## ⛳Tech Stack ⛳
 
-**🗄️Server:** Node, worker_threads
+**🗄️Server:** Node, adb-kit
 
 ---
 - ✨ [For Support](https://github.com/sponsors/fastuptime) <br>
