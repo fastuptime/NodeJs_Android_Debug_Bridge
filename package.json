@@ -1,0 +1,16 @@
+{
+  "name": "test-adbkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "FastUptime & Can",
+  "license": "ISC",
+  "dependencies": {
+    "adbkit": "^2.11.1"
+  }
+}
